@@ -1,4 +1,4 @@
-Certainly! Below is a basic `README.md` file for your Streamlit JD Matcher App:
+ 
 
 ```markdown
 # JD Matcher App using Streamlit

@@ -50,8 +50,12 @@ streamlit run your_app.py
 - This app uses Streamlit for the web interface.
 - Doc2Vec is employed for similarity calculations.
 - PyPDF2 is used for extracting text from PDF resumes.
-
+  
+### Demo
+![image](https://github.com/siddhesh-Mhatre/ResumeSortlisterUsingNLP/assets/80941193/ffeb9996-30fe-447c-b577-68aa42f396bd)
 Feel free to customize and improve the app based on your requirements.
 ```
 
 Make sure to replace placeholders like `'your-username'` and `'your-repo'` with your actual GitHub username and repository name. Also, update the path to your Doc2Vec model as mentioned in the note.
+
+
